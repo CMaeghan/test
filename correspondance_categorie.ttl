@@ -1,0 +1,5 @@
+A:adj
+ADV:adv
+N:nom
+N:nompr
+V:verb
